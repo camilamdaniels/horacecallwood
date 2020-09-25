@@ -64,7 +64,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <h2 class="w3-text-light-grey">February 17th, 1934 - September 11th, 2020</h2>
     <hr style="width:200px" class="w3-opacity">
     <p>Former senator Horace A. Callwood Sr., a born Savanero, was born on St. Thomas to Annie and Richard Callwood. He served in the 7th and 8th Legislatures of the Virgin Islands. Mr. Callwood has also been an employee of the Dept. of Social Welfare and a special assistant to Government Secretary Roy Bornn, handling insurance, banking, and alcohol board matters. He has been honored for his dedication to uplifting the people of the Virgin Islands by and through organizations such as the Horace Callwood Democratic Club, named in his honor in recognition of his tireless work to build a strong, active Democratic Party, and the Rotary of St. Thomas II Club who awarded him Person of the Year in 2016, and of which he has served as president.
-
+<br/>
 Horace Callwood met every week with people who shared his concern for the community and his passion for service over breakfast at the Windward Passage and Bolongo Hotels. Horace Callwood graduated from Charlotte Amalie High School in 1952, earned a bachelor's degree in accounting from Hampton Institute in Virginia, now Hampton University. "He was held in high esteem and his main concern was that his work and endeavors produce positive results." He was known for his entrepreneurship, most notably at School Busing, Inc., and he had other successful business ventures. Horace Callwood has left a legacy of service and wonderful memories of times with his family and friends who miss him dearly and honor him.
     </p>
   
@@ -116,13 +116,12 @@ Horace Callwood met every week with people who shared his concern for the commun
 
   <!-- Contact Section -->
   <div class="w3-padding-64 w3-content w3-text-grey" id="contact">
-    <h2 class="w3-text-light-grey">Contact Me</h2>
+    <h2 class="w3-text-light-grey">Contact Us</h2>
     <hr style="width:200px" class="w3-opacity">
 
     <div class="w3-section">
       <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: horacecallwood2020@gmail.com</p>
     </div><br>
-    <p>Let's get in touch. Send me a message:</p>
 
     <form method="POST" action="https://api.slapform.com/horacecallwood2020@gmail.com" target="_blank">
       <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
